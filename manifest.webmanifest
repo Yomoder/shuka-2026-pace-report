@@ -1,0 +1,27 @@
+{
+  "id": "/shuka-2026-pace-report/",
+  "name": "HORII｜秋華賞2026 展開分析",
+  "short_name": "秋華賞2026",
+  "description": "20万回の暫定AI試算による3シナリオと17頭の馬群配置。初回保存後はオフラインで利用できます。",
+  "lang": "ja",
+  "dir": "ltr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f2f4ef",
+  "theme_color": "#153e31",
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
